@@ -1,5 +1,7 @@
 # PEARL: Efficient Off-policy Meta-learning via Probabilistic Context Variables
 
+Modified by Ziyi Liu.
+
 on arxiv: http://arxiv.org/abs/1903.08254
 
 by Kate Rakelly*, Aurick Zhou*, Deirdre Quillen, Chelsea Finn, and Sergey Levine (UC Berkeley)
